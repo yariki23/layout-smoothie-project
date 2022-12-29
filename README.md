@@ -1,6 +1,6 @@
 # layout-smoothie-project
 
-This site is supported on desktop version
+This site is supported on screens from 1400 to 1900 px
 
 ### [Site link](https://charming-brioche-f34832.netlify.app)
 
